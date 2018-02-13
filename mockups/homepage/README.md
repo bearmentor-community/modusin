@@ -1,8 +1,5 @@
 # Homepage
 
-- Logo
-- Tags
-- Profile Link
 - Featured
   - Title
   - AuthorLink
@@ -17,3 +14,4 @@
     - Date
     - ReadEstimation
     - HeroImage (size=small)
+    
